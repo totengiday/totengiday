@@ -4,4 +4,3 @@
 - 🌱 I’m currently learning C language.
 - 💞️ I’m looking for a partner to study with.
 - 📫 You can contact with me via email. My email address is totengiday@gmail.com
--    Go to master master branch to download code.
